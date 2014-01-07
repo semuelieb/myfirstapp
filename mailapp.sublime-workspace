@@ -1,0 +1,941 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"debug"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"r",
+				"render_template"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"sec",
+				"success"
+			],
+			[
+				"se",
+				"success"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"cl",
+				"class	New Class"
+			],
+			[
+				"i",
+				"isdir  (function)"
+			],
+			[
+				"copy",
+				"copy_files"
+			],
+			[
+				"file",
+				"fileT"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"fil",
+				"files_dict"
+			],
+			[
+				"rep",
+				"replace(\"english\",\"hebrew"
+			],
+			[
+				"list",
+				"listOfDir1"
+			],
+			[
+				"ls",
+				"lst_trans"
+			],
+			[
+				"rea",
+				"read_file_to_text"
+			],
+			[
+				"fi",
+				"file1"
+			],
+			[
+				"fin",
+				"findall  (function)"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"lis",
+				"listOfDir1"
+			],
+			[
+				"co",
+				"copy_files"
+			],
+			[
+				"temp",
+				"temp2"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"lie",
+				"liebchaya@gmail"
+			],
+			[
+				"Exec",
+				"ExecPipe"
+			],
+			[
+				"ar",
+				"argv2"
+			],
+			[
+				"c",
+				"closes"
+			],
+			[
+				"cop",
+				"compSize"
+			],
+			[
+				"err",
+				"errList"
+			],
+			[
+				"siz",
+				"sizeH"
+			],
+			[
+				"ge",
+				"getsize"
+			],
+			[
+				"li",
+				"listOfDir1"
+			],
+			[
+				"L",
+				"L1"
+			],
+			[
+				"P",
+				"P_ath"
+			],
+			[
+				"a",
+				"argv1"
+			],
+			[
+				"arg",
+				"argv2"
+			],
+			[
+				"isPi",
+				"isPipe"
+			],
+			[
+				"im",
+				"image_filename"
+			],
+			[
+				"get",
+				"getlist"
+			],
+			[
+				"ch",
+				"chackImgDim"
+			],
+			[
+				"C",
+				"Carg"
+			],
+			[
+				"new",
+				"NewSize"
+			],
+			[
+				"g",
+				"getlist"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views.py",
+			"settings":
+			{
+				"buffer_size": 434,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(2)<module>()\n-> import os\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(3)<module>()\n-> from wtforms import Form, BooleanField, TextField, PasswordField, validators\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(7)<module>()\n-> from flask_wtf import Form\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(8)<module>()\n-> from wtforms import TextField\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(9)<module>()\n-> from wtforms.validators import DataRequired\n(Pdb++) next\n> /home/sem/virtual/mail/views.py(10)<module>()\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> /home/sem/virtual/mail/views.py(10)<module>()->None\n-> class MyForm(Form):\n(Pdb++) next\n--Return--\n> <string>(1)<module>()->None\n(Pdb++) next\nThe program finished and will be restarted\n> /home/sem/virtual/mail/views.py(1)<module>()\n-> from flask import Flask ,render_template\n(Pdb++) ",
+			"settings":
+			{
+				"buffer_size": 6322,
+				"line_ending": "Unix",
+				"name": "*REPL* [python]",
+				"scratch": true
+			}
+		},
+		{
+			"file": "mailapp.py",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"pythonide",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"debug",
+				"Snippet: Start Plugin Debugger"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"SublimeREPL: Python"
+			],
+			[
+				"de",
+				"Plugin Debugger: run debug_example (opens Debugger)"
+			],
+			[
+				"deb",
+				"Snippet: Start Plugin Debugger"
+			],
+			[
+				"pd",
+				"Plugin Debugger: run debug_example (opens Debugger)"
+			],
+			[
+				"s",
+				"Snippet: Start Plugin Debugger"
+			],
+			[
+				"sim",
+				"SimplestDebugger: Toggle"
+			],
+			[
+				"si",
+				"SimplestDebugger: Toggle"
+			],
+			[
+				"simp",
+				"SimplestDebugger: Toggle"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rp",
+				"SublimeREPL: Python"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"tepl",
+				"Set Syntax: Io Repl"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: tr		",
+				"Snippet: Try/Except"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sem/.config/sublime-text-3/Packages/User/SublimePython.sublime-settings",
+		"/home/sem/virtual/mail/templates/index.html",
+		"/home/sem/virtual/mail/templates/register.html",
+		"/home/sem/virtual/mail/templates/_helpregister.html",
+		"/home/sem/virtual/mail/local/lib/python2.7/site-packages/werkzeug/serving.py",
+		"/home/sem/virtual/test1/mailapp.py",
+		"/home/sem/virtual/test1/comper_fileList.py",
+		"/usr/lib/python2.7/codecs.py",
+		"/home/sem/virtual/test1/leter.html",
+		"/home/sem/virtual/test1/compere_In_File_list.py",
+		"/home/sem/virtual/test1/sendmail-from-python.py",
+		"/usr/lib/python2.7/shutil.py",
+		"/home/sem/virtual/test1/send-mail-with-attachment.py",
+		"/home/sem/q35s.c",
+		"/home/sem/virtual/test1/imagesize.py",
+		"/usr/lib/python2.7/smtplib.py",
+		"/home/sem/#include <iostream>",
+		"/home/sem/q35.c",
+		"/home/sem/q35f.c",
+		"/home/sem/q35A.c",
+		"/home/sem/exemple.c",
+		"/home/sem/language/english/account/account.php",
+		"/home/sem/q34.c",
+		"/usr/lib/python2.7/dist-packages/PIL/ImageFile.py",
+		"/usr/lib/python2.7/dist-packages/PIL/Image.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"last",
+			"name",
+			"zip",
+			"write_to_file_in_the_end",
+			"print",
+			"build_empty_file",
+			"\n",
+			"t",
+			"t.",
+			"t",
+			"0",
+			"files_dict",
+			"lines",
+			"the",
+			"+.+)';\",",
+			"]\n",
+			"]*)\",",
+			"pid1",
+			"user_me@gmail.com",
+			"No child",
+			"mypath",
+			"\n",
+			"wait",
+			"\n",
+			"$_[')",
+			"len",
+			"image_filename",
+			"\"w\" ,\n\"e\"\n\"r\",\n\"y\",\n",
+			"img",
+			"Img",
+			"img"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6322,
+								6322
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_indent": false,
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"detect_indentation": false,
+							"gutter": false,
+							"history_arrows": true,
+							"indent_subsequent_lines": false,
+							"line_numbers": false,
+							"repl": true,
+							"repl_external_id": "python",
+							"repl_id": "a158c204eb90432686e67ff89c24e6eb",
+							"repl_restart_args":
+							{
+								"cmd":
+								[
+									"python",
+									"-i",
+									"-u",
+									"-m",
+									"pdb",
+									"$file_basename"
+								],
+								"cwd": "$file_path",
+								"encoding": "utf8",
+								"extend_env":
+								{
+									"PYTHONIOENCODING": "utf-8"
+								},
+								"external_id": "python",
+								"syntax": "Packages/Python/Python.tmLanguage",
+								"type": "subprocess"
+							},
+							"repl_sublime2": false,
+							"smart_indent": false,
+							"spell_check": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3334.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "mailapp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 141.0
+	},
+	"project": "mailapp.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Unix/q4.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

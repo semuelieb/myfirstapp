@@ -1,0 +1,16 @@
+
+{% extends "index.html" %}
+{% block body %}
+    <h1>Contact</h1>
+    <p>To contact me, click your heels together three times.</p>
+
+<form method="POST" action="/success">
+    {{ form.csrf_token }}
+    <p>{{ form.name.label }} {{ form.name(size=20) }}</p>
+
+    <p>{{ form.last.label }} {{ form.last(size=20) }}</p>
+    <p>{{ form.passwd.label }} {{ form.passwd(size=20) }}</p>
+    <input type="submit" value="Go">
+</form>
+
+{% endblock %}
