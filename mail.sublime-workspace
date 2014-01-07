@@ -179,7 +179,7 @@
 			"file": "views.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 434,
 				"line_ending": "Unix"
 			}
 		},
@@ -187,15 +187,15 @@
 			"file": "mailapp.py",
 			"settings":
 			{
-				"buffer_size": 193,
+				"buffer_size": 813,
 				"line_ending": "Unix"
 			}
 		},
 		{
 			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>form</title>\n</head>\n<body>\n	\n	\n</body>\n</html>",
 			"file": "templates/index.html",
-			"file_size": 0,
-			"file_write_time": 130333466660681354,
+			"file_size": 154,
+			"file_write_time": 130333974684817932,
 			"settings":
 			{
 				"buffer_size": 119,
@@ -403,7 +403,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 434,
 						"regions":
 						{
 						},
@@ -430,15 +430,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 193,
+						"buffer_size": 813,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								193,
-								193
+								0,
+								0
 							]
 						],
 						"settings":
@@ -641,7 +641,7 @@
 		[
 			[
 				"",
-				"~/Unix/q4.sublime-project"
+				"~/virtual/mail/mailapp.sublime-project"
 			]
 		],
 		"width": 380.0
